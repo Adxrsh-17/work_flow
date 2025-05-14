@@ -1,21 +1,23 @@
-<<<<<<< HEAD
-# work_flow
+# 🗂️ Work Flow
 
-A new Flutter project.
+A clean and minimal **To-Do List App** built with **Flutter**.  
+This app helps you manage daily tasks efficiently — add tasks, mark them as complete, or delete them when done.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- ✅ Add new tasks  
+- 🗑️ Delete tasks  
+- ☑️ Mark tasks as complete or incomplete  
+- 💅 Sleek and responsive UI  
+- 🌐 Web compatible (runs on Flutter Web)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# work_flow_app
-A clean and simple to-do list app built using Flutter. Organize tasks efficiently with a sleek UI and smooth interactions.
->>>>>>> 605c0b67d6e5f29bbc7031b3f1978e141b69a845
+To run this project locally:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Adxrsh-17/work_flow.git
+   cd work_flow
